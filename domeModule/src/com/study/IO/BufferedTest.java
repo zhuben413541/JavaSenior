@@ -30,7 +30,7 @@ public class BufferedTest {
         BufferedInputStream bis = null;
         BufferedOutputStream bos = null;
         try {
-            //1.造文件1
+            //1.造文件111111
             File srcFile = new File("景色.jpg");
             File destFile = new File("景色4.jpg");
             //2.造流这是hot修改的
